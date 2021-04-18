@@ -7370,7 +7370,7 @@ ParseItemName(ItemDataChunk, ByRef ItemName, ByRef ItemBaseName, AffixCount = ""
 			return
 		}
 		
-		If (A_Index == 2)
+		If (A_Index = 2)
 		{
 			IfNotInString, A_LoopField, Rarity:
 			{
