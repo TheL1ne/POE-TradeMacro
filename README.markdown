@@ -21,7 +21,7 @@ Never completely trust any price checking tool. Inform yourself about what this 
 #### Usage / Instructions ####
 
 1. Install AHK (http://ahkscript.org). Don't install AutoHotkey v2.x. PSA: If AHK crashes when starting TradeMacro try and use a different version, `AutoHotkey_1.1.26.01` should always work.
-2. Download the [latest release](https://github.com/POE-TradeMacro/POE-TradeMacro/releases/latest) and extract the zip-file. 
+2. Download the [latest release](https://github.com/TheL1ne/POE-TradeMacro/releases/latest) and extract the zip-file. 
 3. Make sure to run PoE in (borderless) windowed mode. Otherwise it won't work!
 4. Run **_Run_TradeMacro.ahk_**.
 5. Default league is set to `tmpstandard` (Softcore Temp-League).
